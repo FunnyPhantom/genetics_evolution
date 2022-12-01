@@ -2,4 +2,4 @@
 ## Ps1 Sols,
 
 
-## 
+### Bifurcation diagram of 
