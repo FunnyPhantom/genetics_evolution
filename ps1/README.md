@@ -4,4 +4,4 @@
 
 ### Bifurcation diagram of growth function
 Diagrams:
-ps1/p1_logistic_fn.png
+![](./p1_logistic_fn.png)
